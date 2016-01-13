@@ -1,0 +1,12 @@
+top track - 25.339in
+back wheel - arc length 9.033
+		chord length 5.935
+bottom track - 15.559
+front lower wheel - arc length .640
+		chord length .635
+angle track - 10.787
+front upper wheel - arc length 5.614
+		chord length 3.944
+
+distance using arc lengths
+25.339 + 9.033 + 15.559 + .640 + 10.787 + 5.614 = 66.971in = 1701.06mm
