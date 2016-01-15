@@ -1,0 +1,9 @@
+﻿"sheet width"= .19
+"width"= 24.5
+"length"= 34.5
+"standoff hole size"= .5
+"ground clearence"= 3
+"small drive pulley"= 74.55mm
+"large drive pulley"= 150.95mm
+"drive axle hole size"= .5
+"front pulley clearence"= 1
