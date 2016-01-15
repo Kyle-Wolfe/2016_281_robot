@@ -7,3 +7,5 @@
 "large drive pulley"= 150.95mm
 "drive axle hole size"= .5
 "front pulley clearence"= 1
+"center support location"= 19
+"inner to outer wall size"= 3.75
