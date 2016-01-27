@@ -1,0 +1,70 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : 2016 Robot V2
+Receiving System Product I.D.: 2016 Robot V2
+File Name                    : 2016 Robot V2.igs
+Sending System               : DASSAULT SYSTEMES CATIA V5 R20 - www.3ds.com
+Preprocessor Version         : CATIA Version 5 Release 20 
+File Creation Date           : 20160124.145757
+Model Creation Date          : 20160124.145757
+Units                        : IN
+Model Space Scale            : 1
+Author                       : AJ
+Organization                 : AJ-PC
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              10
+  Highest number of significant digits:                     10
+  Average number of significant digits:                8.96043
+  Maximum distance to origin:                          40.7068
+  Minimum distance to origin:                         0.689706
+  Effective number of significant digits:              9.98528
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                           6854      6854
+102  Composite curve                               5884      5884
+108  Plane                                          952       952
+110  Line                                         16733     16733
+120  Surface of revolution                         2666      2666
+124  Transformation matrix                         6924      6924
+126  Rational B-spline curve                      17481     17481
+128  Rational B-spline surface                      264       264
+142  Curve on a parametric surface                 5620      5620
+144  Trimmed parametric surface                    4829      4829
+308  Subfigure definition                            38        38
+314  Color definition                                11        11
+406  Property                                       865       865
+408  Singular subfigure instance                     70        70
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       44
+Surface feature(s)                     6
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Sunday, January 24, 2016 13:49:50
+Finish time: Sunday, January 24, 2016 13:50:57
+Processing time: 0 days, 00 hours, 01 mins, 07 secs
