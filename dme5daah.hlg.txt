@@ -1,0 +1,549 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   AJ v2/2016 Robot V2.SLDASM
+#	new file:   AJ v2/ball.SLDPRT
+#	new file:   AJ v2/levitation/217-3351-STEP-20150821.STEP
+#	new file:   AJ v2/levitation/bag motor.SLDPRT
+#	new file:   AJ v2/levitation/base.SLDPRT
+#	new file:   AJ v2/levitation/levitation.SLDASM
+#	new file:   AJ v2/levitation/spool.SLDPRT
+#	new file:   AJ v2/levitation/spoolSide.SLDPRT
+#	new file:   AJ v2/levitation/steel cable weight anolog.SLDPRT
+#	new file:   AJ v2/roll cage/inner tap block.PDF
+#	new file:   AJ v2/roll cage/inner tap block.SLDDRW
+#	new file:   AJ v2/roll cage/inner tap block.SLDPRT
+#	new file:   AJ v2/roll cage/out side bracket.PDF
+#	new file:   AJ v2/roll cage/out side bracket.SLDDRW
+#	new file:   AJ v2/roll cage/out side bracket.SLDPRT
+#	new file:   AJ v2/roll cage/roll cage cross bar.PDF
+#	new file:   AJ v2/roll cage/roll cage.SLDDRW
+#	new file:   AJ v2/roll cage/roll cage.SLDPRT
+#	new file:   AJ v2/shooter boundry.SLDPRT
+#	new file:   AJ v2/shooter/.5in hex bearing.SLDPRT
+#	new file:   AJ v2/shooter/4 in HiGrip Wheel.SLDASM
+#	new file:   AJ v2/shooter/4 in HiGrip Wheel.STEP
+#	new file:   AJ v2/shooter/4 in tread.sldprt
+#	new file:   AJ v2/shooter/4in 2013 Hub.sldprt
+#	new file:   AJ v2/shooter/CIM mount - 3d print.SLDPRT
+#	new file:   AJ v2/shooter/CIM mount - left - 3d print.SLDPRT
+#	new file:   AJ v2/shooter/CIM mount - right - 3d print.SLDPRT
+#	new file:   AJ v2/shooter/CIM mount - right - CNC.SLDPRT
+#	new file:   AJ v2/shooter/Sprockets/am-0019.prt.10
+#	new file:   AJ v2/shooter/Sprockets/am-0222.prt.10
+#	new file:   AJ v2/shooter/Sprockets/am-0226.prt.10
+#	new file:   AJ v2/shooter/Sprockets/am-0233.prt.10
+#	new file:   AJ v2/shooter/Sprockets/am-0245.prt.10
+#	new file:   AJ v2/shooter/Sprockets/am-0280.prt.10
+#	new file:   AJ v2/shooter/Sprockets/am-0646.prt.10
+#	new file:   AJ v2/shooter/Sprockets/am-0736.prt.10
+#	new file:   AJ v2/shooter/Sprockets/am-0737.SLDPRT
+#	new file:   AJ v2/shooter/Sprockets/am-0737.prt.10
+#	new file:   AJ v2/shooter/Sprockets/am-0803.prt.10
+#	new file:   AJ v2/shooter/am-0096a+500+Hex+Hub+r2.SLDPRT
+#	new file:   AJ v2/shooter/am-0096a+500+Hex+Hub+r2.STEP
+#	new file:   AJ v2/shooter/am-0320a_8mm_Key_Hub.SLDPRT
+#	new file:   AJ v2/shooter/am-0320a_8mm_Key_Hub.STEP
+#	new file:   AJ v2/shooter/am-2488CIMbracket.SLDPRT
+#	new file:   AJ v2/shooter/am-2488CIMbracket.STEP
+#	new file:   AJ v2/shooter/bearing block.SLDPRT
+#	new file:   AJ v2/shooter/bottom bar.SLDPRT
+#	new file:   AJ v2/shooter/front width angle.SLDPRT
+#	new file:   AJ v2/shooter/gate lifter.SLDPRT
+#	new file:   AJ v2/shooter/gearbox/217-2625-001 Rev1.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2625-002 Rev1.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2625-003 Rev1.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2625-005 Rev1_Planet_Revolving_Follower01.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2625-007 Rev1_Sun_Driver01.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2625-008 Rev1.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2625-009 Rev1.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2625-010 Rev1.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2625-011 Rev1.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2625-100.sldasm
+#	new file:   AJ v2/shooter/gearbox/217-2724-002 Rev1.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2725-001 Rev1_24t Sun.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2725-002 Rev1_24t Planet.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2741.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2742.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2816-001 Rev1.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-2818 Rev1.sldasm
+#	new file:   AJ v2/shooter/gearbox/217-2822-003 Rev4.sldprt
+#	new file:   AJ v2/shooter/gearbox/217-3351.sldprt
+#	new file:   AJ v2/shooter/gearbox/SPRGW0856-1102-012_9714K62.sldprt
+#	new file:   AJ v2/shooter/gearbox/SSA_SSA0832-0500ZC.sldprt
+#	new file:   AJ v2/shooter/gearbox/SSA_SSA0832-1750ZC.sldprt
+#	new file:   AJ v2/shooter/gearbox/SSHCM004_SSHCM004070010C.sldprt
+#	new file:   AJ v2/shooter/gearbox/SSS1032-0125ZB_94105A824.sldprt
+#	new file:   AJ v2/shooter/gearbox/TRUARC-5103-68_97414A675_grv.sldprt
+#	new file:   AJ v2/shooter/gearbox/TRUARC-MSH-15_98541A410.sldprt
+#	new file:   AJ v2/shooter/gearbox/VEXpro-VersaPlanetary-2stage-with-BAG.SLDASM
+#	new file:   AJ v2/shooter/gearbox/VEXpro-VersaPlanetary-2stage-with-BAG.STEP
+#	new file:   AJ v2/shooter/height angle bracket.SLDPRT
+#	new file:   AJ v2/shooter/kicker.SLDPRT
+#	new file:   AJ v2/shooter/length angle bracket.SLDPRT
+#	new file:   AJ v2/shooter/s35-15he-500h.SLDPRT
+#	new file:   AJ v2/shooter/s35-15he-500h.STEP
+#	new file:   AJ v2/shooter/shaft.SLDPRT
+#	new file:   AJ v2/shooter/shooter assembly.SLDASM
+#	new file:   AJ v2/shooter/shooter bar.SLDPRT
+#	new file:   AJ v2/shooter/shooter cross bar.SLDPRT
+#	new file:   AJ v2/shooter/shooter v2.SLDASM
+#	new file:   AJ v2/shooter/shooter v3.SLDASM
+#	new file:   AJ v2/shooter/width angle bracket.SLDPRT
+#	new file:   KOP components/motor controllers/217-0220-STEP.STEP
+#	new file:   KOP components/motor controllers/217-8080-STEP-20140814.STEP
+#	new file:   KOP components/motor controllers/217-8080-STEP-20140814.err
+#	new file:   KOP components/motor controllers/spike.SLDPRT
+#	new file:   KOP components/motor controllers/talon.SLDPRT
+#	new file:   documentation/BagAndMiniCIMHoleStandards.PDF
+#	new file:   electrical pannel/electrical pannel.SLDPRT
+#	new file:   vision processing/ethernet hub.SLDPRT
+#	new file:   vision processing/files from nvidea/032-0037-000_2.sldprt
+#	new file:   vision processing/files from nvidea/032-0056-000_2.sldprt
+#	new file:   vision processing/files from nvidea/032-0131-000_2.sldprt
+#	new file:   vision processing/files from nvidea/032-0153-000_2.sldprt
+#	new file:   vision processing/files from nvidea/032-0166-000_3.sldprt
+#	new file:   vision processing/files from nvidea/032-0186-000_1.sldprt
+#	new file:   vision processing/files from nvidea/032-0195-000_1.sldprt
+#	new file:   vision processing/files from nvidea/032-0204-000_2.sldprt
+#	new file:   vision processing/files from nvidea/032-0213-000_1.sldprt
+#	new file:   vision processing/files from nvidea/032-0240-000_2.sldprt
+#	new file:   vision processing/files from nvidea/032-0335-000_1.sldprt
+#	new file:   vision processing/files from nvidea/032-0421-000_2.sldprt
+#	new file:   vision processing/files from nvidea/032-0421-000_3.sldprt
+#	new file:   vision processing/files from nvidea/032-0468-000_1.sldprt
+#	new file:   vision processing/files from nvidea/032-0470-000_2.sldprt
+#	new file:   vision processing/files from nvidea/032-0471-000_2.sldprt
+#	new file:   vision processing/files from nvidea/032-0627-000_1.sldprt
+#	new file:   vision processing/files from nvidea/032-0628-000_1.sldprt
+#	new file:   vision processing/files from nvidea/032-0636-000_1.sldprt
+#	new file:   vision processing/files from nvidea/032-0637-000_1.sldprt
+#	new file:   vision processing/files from nvidea/032-0640-000_1.sldprt
+#	new file:   vision processing/files from nvidea/032-0681-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0011-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0012-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0014-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0017-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0018-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0023-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0026-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0031-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0040-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0056-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0060-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0105-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0122-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0135-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0156-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0212-000_1.sldprt
+#	new file:   vision processing/files from nvidea/035-0234-000_2.sldprt
+#	new file:   vision processing/files from nvidea/035-0243-000_2.sldprt
+#	new file:   vision processing/files from nvidea/036-0007-000_1.sldprt
+#	new file:   vision processing/files from nvidea/036-0012-000_1.sldprt
+#	new file:   vision processing/files from nvidea/036-0014-000_1.sldprt
+#	new file:   vision processing/files from nvidea/036-0019-000_1.sldprt
+#	new file:   vision processing/files from nvidea/036-0021-000_1.sldprt
+#	new file:   vision processing/files from nvidea/036-0034-000_1.sldprt
+#	new file:   vision processing/files from nvidea/036-0042-000_1.sldprt
+#	new file:   vision processing/files from nvidea/036-0043-000_1.sldprt
+#	new file:   vision processing/files from nvidea/036-0050-000_1.sldprt
+#	new file:   vision processing/files from nvidea/036-0107-000_1.sldprt
+#	new file:   vision processing/files from nvidea/036-0117-000_1.sldprt
+#	new file:   vision processing/files from nvidea/036-0128-000_2.sldprt
+#	new file:   vision processing/files from nvidea/036-0129-000_2.sldprt
+#	new file:   vision processing/files from nvidea/036-0141-000_1.sldprt
+#	new file:   vision processing/files from nvidea/036-0212-000_2.sldprt
+#	new file:   vision processing/files from nvidea/039-0007-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0008-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0011-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0023-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0024-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0028-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0037-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0093-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0120-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0122-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0125-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0135-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0136-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0145-000_2.sldprt
+#	new file:   vision processing/files from nvidea/039-0148-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0158-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0161-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0165-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0168-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0188-000_3.sldprt
+#	new file:   vision processing/files from nvidea/039-0190-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0197-000_3.sldprt
+#	new file:   vision processing/files from nvidea/039-0199-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0204-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0205-000_2.sldprt
+#	new file:   vision processing/files from nvidea/039-0208-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0213-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0219-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0222-000_1.sldprt
+#	new file:   vision processing/files from nvidea/039-0223-000_1.sldprt
+#	new file:   vision processing/files from nvidea/041-0065-000_1_GREY.sldprt
+#	new file:   vision processing/files from nvidea/041-0177-000_1.sldprt
+#	new file:   vision processing/files from nvidea/041-0210-000_1.sldprt
+#	new file:   vision processing/files from nvidea/042-0138-000_1.sldprt
+#	new file:   vision processing/files from nvidea/060-0002-000_1.sldprt
+#	new file:   vision processing/files from nvidea/065-0362-000_1_GREY.sldprt
+#	new file:   vision processing/files from nvidea/065-0399-000_2_GREY.sldprt
+#	new file:   vision processing/files from nvidea/065-0400-000_3_GREY.sldprt
+#	new file:   vision processing/files from nvidea/065-0475-000_1.sldprt
+#	new file:   vision processing/files from nvidea/074-0050-000_2.sldprt
+#	new file:   vision processing/files from nvidea/074-0110-000_3.sldprt
+#	new file:   vision processing/files from nvidea/074-0117-000_2.sldprt
+#	new file:   vision processing/files from nvidea/074-0152-000_4.sldprt
+#	new file:   vision processing/files from nvidea/080-0023-000_1.sldprt
+#	new file:   vision processing/files from nvidea/080-0025-000_1.sldprt
+#	new file:   vision processing/files from nvidea/080-0309-000_2.sldprt
+#	new file:   vision processing/files from nvidea/080-0420-000_2_GREY.sldprt
+#	new file:   vision processing/files from nvidea/080-0498-000_1_.sldprt
+#	new file:   vision processing/files from nvidea/080-0550-000_2.sldprt
+#	new file:   vision processing/files from nvidea/080-0769-000_2.sldprt
+#	new file:   vision processing/files from nvidea/080-0791-000_1_.sldprt
+#	new file:   vision processing/files from nvidea/080-1242-000_1.sldprt
+#	new file:   vision processing/files from nvidea/080-1243-000_2.sldprt
+#	new file:   vision processing/files from nvidea/080-1264-000_2_GREY.sldprt
+#	new file:   vision processing/files from nvidea/080-1276-000_4.sldprt
+#	new file:   vision processing/files from nvidea/080-1277-000_4-P180.sldprt
+#	new file:   vision processing/files from nvidea/080-1277-000_4_GREY.sldprt
+#	new file:   vision processing/files from nvidea/085-0174-000_1.sldprt
+#	new file:   vision processing/files from nvidea/085-0180-000_1.sldprt
+#	new file:   vision processing/files from nvidea/085-0203-000_1.sldprt
+#	new file:   vision processing/files from nvidea/085-0232-000_1.sldprt
+#	new file:   vision processing/files from nvidea/086-0143-000_2.sldprt
+#	new file:   vision processing/files from nvidea/090-0043-000_2.sldprt
+#	new file:   vision processing/files from nvidea/090-0084-000_3.sldprt
+#	new file:   vision processing/files from nvidea/090-0102-000_2.sldprt
+#	new file:   vision processing/files from nvidea/090-0134-000_2.sldprt
+#	new file:   vision processing/files from nvidea/090-0178-000_1.sldprt
+#	new file:   vision processing/files from nvidea/090-0212-000_1.sldprt
+#	new file:   vision processing/files from nvidea/090-0231-000_1.sldprt
+#	new file:   vision processing/files from nvidea/090-0233-000_1.sldprt
+#	new file:   vision processing/files from nvidea/090-0283-000_3.sldprt
+#	new file:   vision processing/files from nvidea/091-0004-000_1.sldprt
+#	new file:   vision processing/files from nvidea/091-0022-000_1.sldprt
+#	new file:   vision processing/files from nvidea/091-0023-000_1.sldprt
+#	new file:   vision processing/files from nvidea/091-0053-000_1.sldprt
+#	new file:   vision processing/files from nvidea/091-0054-000_1.sldprt
+#	new file:   vision processing/files from nvidea/092-0068-000_3_GREY.sldprt
+#	new file:   vision processing/files from nvidea/100-0026-000_1.sldprt
+#	new file:   vision processing/files from nvidea/100-0063-000_1.sldprt
+#	new file:   vision processing/files from nvidea/100-0077-000_1.sldprt
+#	new file:   vision processing/files from nvidea/100-0104-000_1.sldprt
+#	new file:   vision processing/files from nvidea/100-0160-000_1.sldprt
+#	new file:   vision processing/files from nvidea/100-0165-000_1.sldprt
+#	new file:   vision processing/files from nvidea/100-0183-000_1.sldprt
+#	new file:   vision processing/files from nvidea/100-0189-000_2.sldprt
+#	new file:   vision processing/files from nvidea/100-0206-000_1.sldprt
+#	new file:   vision processing/files from nvidea/101-0075-000_1.sldprt
+#	new file:   vision processing/files from nvidea/101-0104-000_2.sldprt
+#	new file:   vision processing/files from nvidea/101-0142-000_2.sldprt
+#	new file:   vision processing/files from nvidea/102-0015-000_1.sldprt
+#	new file:   vision processing/files from nvidea/102-0023-000_1.sldprt
+#	new file:   vision processing/files from nvidea/102-0037-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-0057-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-0340-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-0674-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-0785-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-0836-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-0880-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-1010-000_2.sldprt
+#	new file:   vision processing/files from nvidea/115-1012-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-1066-000_2.sldprt
+#	new file:   vision processing/files from nvidea/115-1156-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-1238-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-1263-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-1264-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-1265-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-1265-000_1_GREY.sldprt
+#	new file:   vision processing/files from nvidea/115-1272-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-1272-000_1_GREY.sldprt
+#	new file:   vision processing/files from nvidea/115-1283-000_2.sldprt
+#	new file:   vision processing/files from nvidea/115-1572-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-1605-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-1659-000_1.sldprt
+#	new file:   vision processing/files from nvidea/115-1834-000_1_GREY.sldprt
+#	new file:   vision processing/files from nvidea/115-1921-000_3.sldprt
+#	new file:   vision processing/files from nvidea/130-0074-000_1.sldprt
+#	new file:   vision processing/files from nvidea/130-0280-000_1.sldprt
+#	new file:   vision processing/files from nvidea/130-0293-000_1.sldprt
+#	new file:   vision processing/files from nvidea/130-0298-000_1.sldprt
+#	new file:   vision processing/files from nvidea/130-0330-000_1.sldprt
+#	new file:   vision processing/files from nvidea/130-0333-000_1.sldprt
+#	new file:   vision processing/files from nvidea/130-0334-000_1.sldprt
+#	new file:   vision processing/files from nvidea/130-0341-000_1.sldprt
+#	new file:   vision processing/files from nvidea/130-0344-000_1.sldprt
+#	new file:   vision processing/files from nvidea/130-0360-000_1.sldprt
+#	new file:   vision processing/files from nvidea/130-0436-000_2.sldprt
+#	new file:   vision processing/files from nvidea/130-0562-000_2.sldprt
+#	new file:   vision processing/files from nvidea/130-0580-000_4.sldprt
+#	new file:   vision processing/files from nvidea/130-0646-000_1.sldprt
+#	new file:   vision processing/files from nvidea/130-0692-000_1.sldprt
+#	new file:   vision processing/files from nvidea/130-0693-000_1.sldprt
+#	new file:   vision processing/files from nvidea/131-0037-000_1.sldprt
+#	new file:   vision processing/files from nvidea/131-0352-000_1.sldprt
+#	new file:   vision processing/files from nvidea/131-0604-000_1.sldprt
+#	new file:   vision processing/files from nvidea/131-0632-000_2.sldprt
+#	new file:   vision processing/files from nvidea/131-0653-000_1.sldprt
+#	new file:   vision processing/files from nvidea/131-0760-000_1.sldprt
+#	new file:   vision processing/files from nvidea/131-0802-000_2.sldprt
+#	new file:   vision processing/files from nvidea/131-0832-000_1.sldprt
+#	new file:   vision processing/files from nvidea/142-82180-1000-A01-07-31-15.sldprt
+#	new file:   vision processing/files from nvidea/142-82180-1000-A03-10-12-15.sldprt
+#	new file:   vision processing/files from nvidea/142-82597-1000-B02_092815.sldprt
+#	new file:   vision processing/files from nvidea/142-83326-1000-A00-07-14-15.sldprt
+#	new file:   vision processing/files from nvidea/154-0004-013.sldprt
+#	new file:   vision processing/files from nvidea/155-0096-000.sldprt
+#	new file:   vision processing/files from nvidea/155-0178-000.sldprt
+#	new file:   vision processing/files from nvidea/155-0190-000.sldprt
+#	new file:   vision processing/files from nvidea/157-0019-000.sldprt
+#	new file:   vision processing/files from nvidea/157-0023-000.sldprt
+#	new file:   vision processing/files from nvidea/161-0188-600_2.sldprt
+#	new file:   vision processing/files from nvidea/161-0188-600_2_GREY.sldprt
+#	new file:   vision processing/files from nvidea/170-0212-000_2.sldprt
+#	new file:   vision processing/files from nvidea/170-0212-000_2_GREY.sldprt
+#	new file:   vision processing/files from nvidea/174-0133-000_1.sldprt
+#	new file:   vision processing/files from nvidea/174-0165-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0001-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0002-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0003-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0004-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0005-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0031-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0046-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0070-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0105-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0106-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0140-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0150-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0165-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0169-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0170-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0190-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0194-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0200-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0210-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0220-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0235-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0240-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0250-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0292-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0315-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0324-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0338-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0340-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0342-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0374-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0379-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0385-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0403-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0404-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0405-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0415-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0437-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0460-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0475-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0482-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0483-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0484-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0485-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0486-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0487-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0488-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0489-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0528-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0533-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0537-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0542-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0569-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0595-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0596-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0598-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0599-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0609-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0628-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0631-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0634-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-0651-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-1134-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-1217-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-1225-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-1246-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-1260-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-1592-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-1635-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-1636-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-1680-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-1691-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-1758-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-1768-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2002-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2003-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2004-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2005-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2006-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2007-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2034-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2057-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2061-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2117-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2118-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2171-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2172-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2173-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2274-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2289-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2299-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2319-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2337-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2350-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2363-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2459-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2469-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2487-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2506-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2548-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2566-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2631-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2655-000_1.sldprt
+#	new file:   vision processing/files from nvidea/195-2656-000_1.sldprt
+#	new file:   vision processing/files from nvidea/215-0064-000_1.sldprt
+#	new file:   vision processing/files from nvidea/215-0079-000_3.sldprt
+#	new file:   vision processing/files from nvidea/215-0119-000_3.sldprt
+#	new file:   vision processing/files from nvidea/215-0142-000_1.sldprt
+#	new file:   vision processing/files from nvidea/215-0151-000_1.sldprt
+#	new file:   vision processing/files from nvidea/215-0164-000_2.sldprt
+#	new file:   vision processing/files from nvidea/215-0165-000_1.sldprt
+#	new file:   vision processing/files from nvidea/215-0168-000_2.sldprt
+#	new file:   vision processing/files from nvidea/215-0247-000_1.sldprt
+#	new file:   vision processing/files from nvidea/215-0249-000_1.sldprt
+#	new file:   vision processing/files from nvidea/220-0030-000_1_.sldprt
+#	new file:   vision processing/files from nvidea/244-82180-1000-A01-07-31-15_ASM.sldasm
+#	new file:   vision processing/files from nvidea/244-82180-1000-A03-10-12-15_ASM.sldasm
+#	new file:   vision processing/files from nvidea/244-82597-1000-B02_092815_ASM.sldasm
+#	new file:   vision processing/files from nvidea/244-83326-1000-A00-07-14-15_ASM.sldasm
+#	new file:   vision processing/files from nvidea/280-0060-000_2.sldprt
+#	new file:   vision processing/files from nvidea/285-0091-000-CG.sldprt
+#	new file:   vision processing/files from nvidea/285-0146-000.sldprt
+#	new file:   vision processing/files from nvidea/285-0181-000.sldprt
+#	new file:   vision processing/files from nvidea/285-0185-000.sldprt
+#	new file:   vision processing/files from nvidea/295-0036-000_2.sldprt
+#	new file:   vision processing/files from nvidea/300-0252-000_1.sldprt
+#	new file:   vision processing/files from nvidea/300-0284-000_1.sldprt
+#	new file:   vision processing/files from nvidea/300-0329-000_1.sldprt
+#	new file:   vision processing/files from nvidea/300-0381-000_1.sldprt
+#	new file:   vision processing/files from nvidea/300-0402-000_1.sldprt
+#	new file:   vision processing/files from nvidea/300-0405-000_1.sldprt
+#	new file:   vision processing/files from nvidea/300-0485-000_1.sldprt
+#	new file:   vision processing/files from nvidea/300-0494-000_1.sldprt
+#	new file:   vision processing/files from nvidea/300-0568-000_1.sldprt
+#	new file:   vision processing/files from nvidea/300-0608-000_1.sldprt
+#	new file:   vision processing/files from nvidea/300-0634-000_1.sldprt
+#	new file:   vision processing/files from nvidea/300-0688-000_1.sldprt
+#	new file:   vision processing/files from nvidea/300-0712-000_1.sldprt
+#	new file:   vision processing/files from nvidea/300-0726-000_1.sldprt
+#	new file:   vision processing/files from nvidea/300-0868-000_3.sldprt
+#	new file:   vision processing/files from nvidea/300-0869-000_3.sldprt
+#	new file:   vision processing/files from nvidea/300-0870-000_1.sldprt
+#	new file:   vision processing/files from nvidea/305-0002-000_1.sldprt
+#	new file:   vision processing/files from nvidea/305-0008-000_1.sldprt
+#	new file:   vision processing/files from nvidea/305-0051-000_2.sldprt
+#	new file:   vision processing/files from nvidea/305-0057-000_1.sldprt
+#	new file:   vision processing/files from nvidea/315-0217-000_1.sldprt
+#	new file:   vision processing/files from nvidea/315-0763-000_2.sldprt
+#	new file:   vision processing/files from nvidea/315-0808-000_2.sldprt
+#	new file:   vision processing/files from nvidea/315-0832-000_3.sldprt
+#	new file:   vision processing/files from nvidea/315-0931-000_1.sldprt
+#	new file:   vision processing/files from nvidea/315-0931-000_1_GREY.sldprt
+#	new file:   vision processing/files from nvidea/315-0934-000_1.sldprt
+#	new file:   vision processing/files from nvidea/316-0254-000_2.sldprt
+#	new file:   vision processing/files from nvidea/316-0314-000_1.sldprt
+#	new file:   vision processing/files from nvidea/316-0420-000_3.sldprt
+#	new file:   vision processing/files from nvidea/320-0965-000_3_GREY.sldprt
+#	new file:   vision processing/files from nvidea/320-1075-000_1.sldprt
+#	new file:   vision processing/files from nvidea/320-1104-000.sldprt
+#	new file:   vision processing/files from nvidea/320-1117-000.sldprt
+#	new file:   vision processing/files from nvidea/BOSS-BASE.sldprt
+#	new file:   vision processing/files from nvidea/C-3-1478987-0-A-3D.sldprt
+#	new file:   vision processing/files from nvidea/DCV-01672-N1-GP-08-12-15_ASM.sldasm
+#	new file:   vision processing/files from nvidea/DEV-HEATSINK-2015-0717_ASM_3_ASM.sldasm
+#	new file:   vision processing/files from nvidea/DEV-HS-VO_6.sldprt
+#	new file:   vision processing/files from nvidea/FAN-SCREW-M2-L15-2_1.sldprt
+#	new file:   vision processing/files from nvidea/FANKUANG_0104.sldprt
+#	new file:   vision processing/files from nvidea/FANYE_0104.sldprt
+#	new file:   vision processing/files from nvidea/GREASE-X23-7762_2.sldprt
+#	new file:   vision processing/files from nvidea/JETSON-BOTTOM-COVER-REV1-2015-0.sldprt
+#	new file:   vision processing/files from nvidea/JETSON-BOTTOM-COVER.sldprt
+#	new file:   vision processing/files from nvidea/JETSON-DEV-COOLER_ASM_5_ASM.sldasm
+#	new file:   vision processing/files from nvidea/JETSON-NEW_ASM.sldasm
+#	new file:   vision processing/files from nvidea/PIN-DOWEL-1MM.sldprt
+#	new file:   vision processing/files from nvidea/PIN-DOWEL-1MM_1_1.sldprt
+#	new file:   vision processing/files from nvidea/QFN048Q_P040_0060_T045X04_1000.sldprt
+#	new file:   vision processing/files from nvidea/QFN048Q_P040_0060_T045X04__GREY.sldprt
+#	new file:   vision processing/files from nvidea/RES_04_SMD_015X032_0750.sldprt
+#	new file:   vision processing/files from nvidea/RES_04_SMD_015X032_0750_GREY.sldprt
+#	new file:   vision processing/files from nvidea/RF-BRACKET-REV2.sldprt
+#	new file:   vision processing/files from nvidea/SAMTEC-JETSON_ASM.sldasm
+#	new file:   vision processing/files from nvidea/SAMTEC-SEAF-50-05-S-08-02-A-K_ASM.sldasm
+#	new file:   vision processing/files from nvidea/STANDOFF_3_1.sldprt
+#	new file:   vision processing/files from nvidea/T210-INT-DSC-A1_1.sldprt
+#	new file:   vision processing/files from nvidea/T210-INT-DSC-A1_1_GREY.sldprt
+#	new file:   vision processing/files from nvidea/TTP-1-REV5-2015-0727_ASM.sldasm
+#	new file:   vision processing/files from nvidea/TTP-1-REV5_ASM_6_ASM.sldasm
+#	new file:   vision processing/files from nvidea/TTP-1_ASM.sldasm
+#	new file:   vision processing/files from nvidea/TTP.sldprt
+#	new file:   vision processing/files from nvidea/TTP_1-REV5_31.sldprt
+#	new file:   vision processing/files from nvidea/jetson-top_asm.SLDASM
+#	new file:   vision processing/files from nvidea/jetson-top_asm.err
+#	new file:   vision processing/files from nvidea/jetson-top_asm.stp
+#	new file:   vision processing/nvidea size.SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/@raspberry_pi_model_B+_bot_2.jpg
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/@raspberry_pi_model_B+_top_1.jpg
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/IGES_raspberrypi_b_+_(assembly).rar
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/PARASOLID_raspberrypi_b_+_(assembly).rar
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/STEP_raspberrypi_b_+_(assembly).rar
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/STL_raspberrypi_b_+_(assembly).rar
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/mechanicalspecB+.png
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/rasp50.gif
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(15_pin_FFC_Connector).SLDASM
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(168_FBGA_12x12).SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(CI_Board).SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(HDMI_socket).SLDASM
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(P1).SLDASM
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(QFN64).SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(RENDER2).JPG
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(RJ45).SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(USB_x2).SLDASM
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(USB_x2_part1).SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(USB_x2_part2).SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(audio_video2).SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(bar_180_2x20).SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(micro_USB).SLDASM
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(micro_USB_contacts).SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(micro_USB_cover).SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(microsd).SLDASM
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(microsd).SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(microsd2).SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(microsd_slot).SLDASM
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(microsd_slot2).SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(slot).SLDASM
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi_B+_(slot).SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi__15_pin_FFC_Connector_body.SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi__15_pin_FFC_Connector_locker.SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi__15_pin_FFC_Connector_pins.SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi__HDMI_socket_cover.SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi__HDMI_socket_inside.SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi__HDMI_socket_large_pin.SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberry_pi__HDMI_socket_small_pin.SLDPRT
+#	new file:   vision processing/raspberry-pi-model-b-2.snapshot.15/raspberrypi_b_+_(assembly).SLDASM
+#
+
